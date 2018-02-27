@@ -41,6 +41,9 @@ So I can find notes on a certain topic
 I want to be able to search for all the notes with a specific tag
 ```
 
-|    Objects   | Messages |
-| ------------ | ----------- |
-|    Notebook    |   new_note(message, tag)   |
+
+
+Notebook               Note                
+initialize    initialize(message,tag)
+new_note(note)    
+search(tag)
