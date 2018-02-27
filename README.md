@@ -41,11 +41,6 @@ So I can find notes on a certain topic
 I want to be able to search for all the notes with a specific tag
 ```
 
-Note                                 Notebook   
-note = Note.new("Get milk",)
-
-
 |    Objects   | Messages |
 | ------------ | ----------- |
-|     Note   |  Note.new(message,tag), Notebook.push(note)        |
-|    Notebook    |   print(tag)   |
+|    Notebook    |   new_note(message, tag)   |
